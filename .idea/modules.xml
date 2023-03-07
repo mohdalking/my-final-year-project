@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Temp_job.iml" filepath="$PROJECT_DIR$/.idea/modules/Temp_job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Temp_job.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Temp_job.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Temp_job.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Temp_job.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Temp_job.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Temp_job.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Temp_job.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Temp_job.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
